@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Fields_of_Thunder">
+
+	<Key ID="STR_TB_missionTitle_TB_Fields_of_Thunder">
+		<Original>Chaos</Original>
+		<English>Chaos</English>
+		<German>Chaos</German>
+		<Italian>Chaos</Italian>
+		<Spanish>Chaos</Spanish>
+		<French>Chaos</French>
+		<Czech>Chaos</Czech>
+		<Russian>Chaos</Russian>
+		<Polish>Chaos</Polish>
+		<Hungarian>Chaos</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Fields_of_Thunder">
+		<Original>TacBF A&amp;S[T-10]: Chaos</Original>
+		<English>TacBF A&amp;S[T-10]: Chaos</English>
+		<German>TacBF A&amp;S[T-10]: Chaos</German>
+		<Italian>TacBF A&amp;S[T-10]: Chaos</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Chaos</Spanish>
+		<French>TacBF A&amp;S[T-10]: Chaos</French>
+		<Czech>TacBF A&amp;S[T-10]: Chaos</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Chaos</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Chaos</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Chaos</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
